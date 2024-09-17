@@ -20,4 +20,11 @@ Fecha de lanzamiento última versión: 13 sept 2024
 WhatsApp Messenger es una aplicación de mensajería móvil de terceros multiplataforma que le permite intercambiar mensajes con otros usuarios de WhatsApp.
 <h1> Estado del proyecto </h1>
 ✅Aplicación en funcionamiento✅
-<h1> Demostración de funciones y aplicaciones </h1>
+<h1> Funciones de la aplicación </h1>
+<ol>
+  <li>Aplicación de mensajería instantánea para teléfonos inteligentes.</li>
+  <li>Privacidad.</li>
+  <li>Centro de ayuda.</li>
+  <li>Blog.</li>
+  <li>WhatsApp Web.</li>
+</ol>
