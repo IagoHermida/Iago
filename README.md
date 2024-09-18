@@ -48,4 +48,9 @@ WhatsApp Messenger es una aplicación de mensajería móvil de terceros multipla
   <li>Erlang </li>
 </ol>
 <h1> Personas contribuyentes </h1>
-![169887304-030cf59b-dc67-421d-823e-ebb5ad94fc0d](https://github.com/user-attachments/assets/5064c790-baab-4f96-91ff-5dec4823d3e0)
+![contribuyentes](https://github.com/user-attachments/assets/5064c790-baab-4f96-91ff-5dec4823d3e0)
+<h1> Personas Desarrolladoras del Proyecto </h1>
+<ol>
+  <li>Jan Koum</li>
+  <li>Brian Acton </li>
+</ol>
