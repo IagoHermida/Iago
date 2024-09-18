@@ -54,3 +54,5 @@ WhatsApp Messenger es una aplicación de mensajería móvil de terceros multipla
   <li>Jan Koum</li>
   <li>Brian Acton </li>
 </ol>
+<h1> Licencia </h1>
+ Licencia internacional, no exclusiva, libre de regalías
