@@ -28,3 +28,21 @@ WhatsApp Messenger es una aplicación de mensajería móvil de terceros multipla
   <li>Blog.</li>
   <li>WhatsApp Web.</li>
 </ol>
+<h1> Acceso al proyecto </h1>
+📁 Acceso al proyecto <br>
+<ol>
+  <li>Descarga WhatsApp Messenger gratis desde Google Play Store o el App Store de Apple.</li>
+</ol>
+🛠️ Abre y ejecuta el proyecto <br>
+<ol>
+  <li>Para abrir la aplicación, pulsa el ícono de WhatsApp en la pantalla de inicio.</li>
+  <li>Revisa las Condiciones del servicio</li>
+  <li>Regístrate</li>
+  <li> Configura tu perfil</li>
+  <li>Autoriza el acceso a tus contactos y fotos</li>
+  <li>Inicia un chat</li>
+</ol>
+<h1> Tecnologías utilizadas </h1>
+<ol>
+  <li>Protocolo Extensible de Mensajería y Presencia (XMPP)</li>
+</ol>
